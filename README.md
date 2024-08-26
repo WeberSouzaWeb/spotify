@@ -1,7 +1,7 @@
 # spotify
 Create Spotify Clone Using React JS &amp; Tailwind CSS  - Build Complete Music Website 
 
-![Nextjs Storefront](./src/assets/Screenshot_from_2024-08-26 09-46-29.png)
+![Spotify](./src/assets/Screenshot.png)
 
 <div align="center">
   <h1>Tailwind React Spotify</h1>
